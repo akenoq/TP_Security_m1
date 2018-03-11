@@ -5,6 +5,10 @@ const app = express();
 
 app.use(express.static(__dirname + "/static"));
 
+app.get('/', function(req, res) {
+    res.sendfile("static/api.html");
+});
+
 app.get('/xxe', function(req, res) {
     res.sendfile("static/xxe.xml");
 });
