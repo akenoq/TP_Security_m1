@@ -1,119 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE title [ <!ELEMENT title ANY >
+<!ENTITY xxe SYSTEM "file:///etc/passwd" >]>
 <rss version="2.0">
   <channel>
-    <title>Яндекс.Новости: Авто</title>
+    <title>&xxe;</title>
     <link>https://news.yandex.ru/auto.html?from=rss</link>
     <description>
-      Первая в России служба автоматической обработки и систематизации новостей. Сообщения ведущих российских и мировых СМИ. Обновление в режиме реального времени 24 часа в сутки.
+      РџРµСЂРІР°СЏ РІ Р РѕСЃСЃРёРё СЃР»СѓР¶Р±Р° Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРѕР№ РѕР±СЂР°Р±РѕС‚РєРё Рё СЃРёСЃС‚РµРјР°С‚РёР·Р°С†РёРё РЅРѕРІРѕСЃС‚РµР№. РЎРѕРѕР±С‰РµРЅРёСЏ РІРµРґСѓС‰РёС… СЂРѕСЃСЃРёР№СЃРєРёС… Рё РјРёСЂРѕРІС‹С… РЎРњР. РћР±РЅРѕРІР»РµРЅРёРµ РІ СЂРµР¶РёРјРµ СЂРµР°Р»СЊРЅРѕРіРѕ РІСЂРµРјРµРЅРё 24 С‡Р°СЃР° РІ СЃСѓС‚РєРё.
     </description>
     <image>
       <url>https://company.yandex.ru/i/50x23.gif</url>
       <link>https://news.yandex.ru/auto.html?from=rss</link>
-      <title>Яндекс.Новости: Авто</title>
+      <title>РЇРЅРґРµРєСЃ.РќРѕРІРѕСЃС‚Рё: РђРІС‚Рѕ</title>
     </image>
     <lastBuildDate>12 Mar 2018 19:07:09 +0300</lastBuildDate>
     <item>
-      <title>Очевидцы сняли на видео тягачи Tesla Semi с настоящими прицепами</title>
+      <title>РћС‡РµРІРёРґС†С‹ СЃРЅСЏР»Рё РЅР° РІРёРґРµРѕ С‚СЏРіР°С‡Рё Tesla Semi СЃ РЅР°СЃС‚РѕСЏС‰РёРјРё РїСЂРёС†РµРїР°РјРё</title>
       <link>https://news.yandex.ru/yandsearch?cl4url=speedme.ru%2Fposts%2Fid-8035-gruzoviki-tesla-semi-nachali-perevozit-gruzy&amp;from=rss</link>
-      <description>В сети стали появляться видео, на которых электрические грузовики Tesla передвигаются по дорогам общего пользования с настоящим грузом.</description>
+      <description>Р’ СЃРµС‚Рё СЃС‚Р°Р»Рё РїРѕСЏРІР»СЏС‚СЊСЃСЏ РІРёРґРµРѕ, РЅР° РєРѕС‚РѕСЂС‹С… СЌР»РµРєС‚СЂРёС‡РµСЃРєРёРµ РіСЂСѓР·РѕРІРёРєРё Tesla РїРµСЂРµРґРІРёРіР°СЋС‚СЃСЏ РїРѕ РґРѕСЂРѕРіР°Рј РѕР±С‰РµРіРѕ РїРѕР»СЊР·РѕРІР°РЅРёСЏ СЃ РЅР°СЃС‚РѕСЏС‰РёРј РіСЂСѓР·РѕРј.</description>
       <pubDate>12 Mar 2018 18:12:30 +0300</pubDate>
       <guid>https://news.yandex.ru/yandsearch?cl4url=speedme.ru%2Fposts%2Fid-8035-gruzoviki-tesla-semi-nachali-perevozit-gruzy&amp;from=rss</guid>
     </item>
     <item>
-      <title>Компания Brabham опубликовала аудиотизер своей новой модели</title>
+      <title>РљРѕРјРїР°РЅРёСЏ Brabham РѕРїСѓР±Р»РёРєРѕРІР°Р»Р° Р°СѓРґРёРѕС‚РёР·РµСЂ СЃРІРѕРµР№ РЅРѕРІРѕР№ РјРѕРґРµР»Рё</title>
       <link>https://news.yandex.ru/yandsearch?cl4url=tvoe-avto.com%2F148700-kompaniya-brabham-opublikovala-audiotizer-svoej-novoj-modeli.html&amp;from=rss</link>
-      <description>Brabham выпустила первый аудиотизер, в котором записан звук работы автомобиля.</description>
+      <description>Brabham РІС‹РїСѓСЃС‚РёР»Р° РїРµСЂРІС‹Р№ Р°СѓРґРёРѕС‚РёР·РµСЂ, РІ РєРѕС‚РѕСЂРѕРј Р·Р°РїРёСЃР°РЅ Р·РІСѓРє СЂР°Р±РѕС‚С‹ Р°РІС‚РѕРјРѕР±РёР»СЏ.</description>
       <pubDate>12 Mar 2018 18:48:57 +0300</pubDate>
       <guid>https://news.yandex.ru/yandsearch?cl4url=tvoe-avto.com%2F148700-kompaniya-brabham-opublikovala-audiotizer-svoej-novoj-modeli.html&amp;from=rss</guid>
     </item>
     <item>
-      <title>Ford прекратит сотрудничество с одним из крупнейших дилеров России</title>
+      <title>Ford РїСЂРµРєСЂР°С‚РёС‚ СЃРѕС‚СЂСѓРґРЅРёС‡РµСЃС‚РІРѕ СЃ РѕРґРЅРёРј РёР· РєСЂСѓРїРЅРµР№С€РёС… РґРёР»РµСЂРѕРІ Р РѕСЃСЃРёРё</title>
       <link>https://news.yandex.ru/yandsearch?cl4url=realnoevremya.ru%2Fnews%2F92325-ford-prekratit-sotrudnichestvo-s-odnim-iz-krupneyshih-dilerov-rossii&amp;from=rss</link>
-      <description>Американский автопроизводитель Ford расторгает контракт с одним из крупнейших автодилеров России — Genser.</description>
+      <description>РђРјРµСЂРёРєР°РЅСЃРєРёР№ Р°РІС‚РѕРїСЂРѕРёР·РІРѕРґРёС‚РµР»СЊ Ford СЂР°СЃС‚РѕСЂРіР°РµС‚ РєРѕРЅС‚СЂР°РєС‚ СЃ РѕРґРЅРёРј РёР· РєСЂСѓРїРЅРµР№С€РёС… Р°РІС‚РѕРґРёР»РµСЂРѕРІ Р РѕСЃСЃРёРё вЂ” Genser.</description>
       <pubDate>12 Mar 2018 18:47:00 +0300</pubDate>
       <guid>https://news.yandex.ru/yandsearch?cl4url=realnoevremya.ru%2Fnews%2F92325-ford-prekratit-sotrudnichestvo-s-odnim-iz-krupneyshih-dilerov-rossii&amp;from=rss</guid>
     </item>
     <item>
-      <title>Ford установил максимальные цены на техническое обслуживание в России</title>
+      <title>Ford СѓСЃС‚Р°РЅРѕРІРёР» РјР°РєСЃРёРјР°Р»СЊРЅС‹Рµ С†РµРЅС‹ РЅР° С‚РµС…РЅРёС‡РµСЃРєРѕРµ РѕР±СЃР»СѓР¶РёРІР°РЅРёРµ РІ Р РѕСЃСЃРёРё</title>
       <link>https://news.yandex.ru/yandsearch?cl4url=www.autostat.ru%2Fnews%2F33425%2F&amp;from=rss</link>
-      <description>Как отмечается, рассчитанные в соответствии с регламентами и количеством нормо-часов максимальные цены на техническое обслуживание и замену масла сделают преимущества официального сервиса Ford более доступными и помогут легче прогнозировать затраты на обслуживание автомобиля, как находящегося на гарантии, так и старше 3 лет.</description>
+      <description>РљР°Рє РѕС‚РјРµС‡Р°РµС‚СЃСЏ, СЂР°СЃСЃС‡РёС‚Р°РЅРЅС‹Рµ РІ СЃРѕРѕС‚РІРµС‚СЃС‚РІРёРё СЃ СЂРµРіР»Р°РјРµРЅС‚Р°РјРё Рё РєРѕР»РёС‡РµСЃС‚РІРѕРј РЅРѕСЂРјРѕ-С‡Р°СЃРѕРІ РјР°РєСЃРёРјР°Р»СЊРЅС‹Рµ С†РµРЅС‹ РЅР° С‚РµС…РЅРёС‡РµСЃРєРѕРµ РѕР±СЃР»СѓР¶РёРІР°РЅРёРµ Рё Р·Р°РјРµРЅСѓ РјР°СЃР»Р° СЃРґРµР»Р°СЋС‚ РїСЂРµРёРјСѓС‰РµСЃС‚РІР° РѕС„РёС†РёР°Р»СЊРЅРѕРіРѕ СЃРµСЂРІРёСЃР° Ford Р±РѕР»РµРµ РґРѕСЃС‚СѓРїРЅС‹РјРё Рё РїРѕРјРѕРіСѓС‚ Р»РµРіС‡Рµ РїСЂРѕРіРЅРѕР·РёСЂРѕРІР°С‚СЊ Р·Р°С‚СЂР°С‚С‹ РЅР° РѕР±СЃР»СѓР¶РёРІР°РЅРёРµ Р°РІС‚РѕРјРѕР±РёР»СЏ, РєР°Рє РЅР°С…РѕРґСЏС‰РµРіРѕСЃСЏ РЅР° РіР°СЂР°РЅС‚РёРё, С‚Р°Рє Рё СЃС‚Р°СЂС€Рµ 3 Р»РµС‚.</description>
       <pubDate>12 Mar 2018 15:54:05 +0300</pubDate>
       <guid>https://news.yandex.ru/yandsearch?cl4url=www.autostat.ru%2Fnews%2F33425%2F&amp;from=rss</guid>
     </item>
     <item>
-      <title>Aston Martin работает над «младшим братом» гиперкара Valkyrie</title>
+      <title>Aston Martin СЂР°Р±РѕС‚Р°РµС‚ РЅР°Рґ В«РјР»Р°РґС€РёРј Р±СЂР°С‚РѕРјВ» РіРёРїРµСЂРєР°СЂР° Valkyrie</title>
       <link>https://news.yandex.ru/yandsearch?cl4url=runews24.ru%2Fauto%2F12%2F03%2F2018%2F3b5eb8cef2ea1f62a082cb6acdbc5a47&amp;from=rss</link>
-      <description>Как отметил руководитель британского автопроизводителя Энди Палмер, при проектировании будут использованы наработки, которые были получены при создании Valkyrie.</description>
+      <description>РљР°Рє РѕС‚РјРµС‚РёР» СЂСѓРєРѕРІРѕРґРёС‚РµР»СЊ Р±СЂРёС‚Р°РЅСЃРєРѕРіРѕ Р°РІС‚РѕРїСЂРѕРёР·РІРѕРґРёС‚РµР»СЏ Р­РЅРґРё РџР°Р»РјРµСЂ, РїСЂРё РїСЂРѕРµРєС‚РёСЂРѕРІР°РЅРёРё Р±СѓРґСѓС‚ РёСЃРїРѕР»СЊР·РѕРІР°РЅС‹ РЅР°СЂР°Р±РѕС‚РєРё, РєРѕС‚РѕСЂС‹Рµ Р±С‹Р»Рё РїРѕР»СѓС‡РµРЅС‹ РїСЂРё СЃРѕР·РґР°РЅРёРё Valkyrie.</description>
       <pubDate>12 Mar 2018 17:01:56 +0300</pubDate>
       <guid>https://news.yandex.ru/yandsearch?cl4url=runews24.ru%2Fauto%2F12%2F03%2F2018%2F3b5eb8cef2ea1f62a082cb6acdbc5a47&amp;from=rss</guid>
     </item>
     <item>
-      <title>Jeep готовит новый компактный кроссовер на базе Fiat 500</title>
+      <title>Jeep РіРѕС‚РѕРІРёС‚ РЅРѕРІС‹Р№ РєРѕРјРїР°РєС‚РЅС‹Р№ РєСЂРѕСЃСЃРѕРІРµСЂ РЅР° Р±Р°Р·Рµ Fiat 500</title>
       <link>https://news.yandex.ru/yandsearch?cl4url=tvoe-avto.com%2F148695-jeep-predstavit-novyj-kompaktnyj-krossover-na-baze-fiat-500.html&amp;from=rss</link>
-      <description>Компактный кроссовер компания может анонсировать уже в начале лета, когда будет проведено специальное мероприятие, посвященное новинкам Jeep.</description>
+      <description>РљРѕРјРїР°РєС‚РЅС‹Р№ РєСЂРѕСЃСЃРѕРІРµСЂ РєРѕРјРїР°РЅРёСЏ РјРѕР¶РµС‚ Р°РЅРѕРЅСЃРёСЂРѕРІР°С‚СЊ СѓР¶Рµ РІ РЅР°С‡Р°Р»Рµ Р»РµС‚Р°, РєРѕРіРґР° Р±СѓРґРµС‚ РїСЂРѕРІРµРґРµРЅРѕ СЃРїРµС†РёР°Р»СЊРЅРѕРµ РјРµСЂРѕРїСЂРёСЏС‚РёРµ, РїРѕСЃРІСЏС‰РµРЅРЅРѕРµ РЅРѕРІРёРЅРєР°Рј Jeep.</description>
       <pubDate>12 Mar 2018 18:35:43 +0300</pubDate>
       <guid>https://news.yandex.ru/yandsearch?cl4url=tvoe-avto.com%2F148695-jeep-predstavit-novyj-kompaktnyj-krossover-na-baze-fiat-500.html&amp;from=rss</guid>
     </item>
     <item>
-      <title>Volkswagen представит новый Touareg на автосалоне в Пекине</title>
+      <title>Volkswagen РїСЂРµРґСЃС‚Р°РІРёС‚ РЅРѕРІС‹Р№ Touareg РЅР° Р°РІС‚РѕСЃР°Р»РѕРЅРµ РІ РџРµРєРёРЅРµ</title>
       <link>https://news.yandex.ru/yandsearch?cl4url=versiya.info%2Favto%2F62073&amp;from=rss</link>
-      <description>Компания Volkswagen проведёт презентацию новой генерации Touareg уже 23 марта в Пекине.</description>
+      <description>РљРѕРјРїР°РЅРёСЏ Volkswagen РїСЂРѕРІРµРґС‘С‚ РїСЂРµР·РµРЅС‚Р°С†РёСЋ РЅРѕРІРѕР№ РіРµРЅРµСЂР°С†РёРё Touareg СѓР¶Рµ 23 РјР°СЂС‚Р° РІ РџРµРєРёРЅРµ.</description>
       <pubDate>12 Mar 2018 14:59:17 +0300</pubDate>
       <guid>https://news.yandex.ru/yandsearch?cl4url=versiya.info%2Favto%2F62073&amp;from=rss</guid>
     </item>
     <item>
-      <title>Объявлены российские цены на семиместный кроссовер Volkswagen Teramont</title>
+      <title>РћР±СЉСЏРІР»РµРЅС‹ СЂРѕСЃСЃРёР№СЃРєРёРµ С†РµРЅС‹ РЅР° СЃРµРјРёРјРµСЃС‚РЅС‹Р№ РєСЂРѕСЃСЃРѕРІРµСЂ Volkswagen Teramont</title>
       <link>https://news.yandex.ru/yandsearch?cl4url=rg.ru%2F2018%2F03%2F12%2Fobiavleny-rossijskie-ceny-na-semimestnyj-krossover-volkswagen-teramont.html&amp;from=rss</link>
-      <description>Компания Volkswagen объявила российские цены на большой кроссовер Teramont.</description>
+      <description>РљРѕРјРїР°РЅРёСЏ Volkswagen РѕР±СЉСЏРІРёР»Р° СЂРѕСЃСЃРёР№СЃРєРёРµ С†РµРЅС‹ РЅР° Р±РѕР»СЊС€РѕР№ РєСЂРѕСЃСЃРѕРІРµСЂ Teramont.</description>
       <pubDate>12 Mar 2018 16:19:00 +0300</pubDate>
       <guid>https://news.yandex.ru/yandsearch?cl4url=rg.ru%2F2018%2F03%2F12%2Fobiavleny-rossijskie-ceny-na-semimestnyj-krossover-volkswagen-teramont.html&amp;from=rss</guid>
     </item>
     <item>
-      <title>В феврале «КАМАЗ» увеличил производство на 11%</title>
+      <title>Р’ С„РµРІСЂР°Р»Рµ В«РљРђРњРђР—В» СѓРІРµР»РёС‡РёР» РїСЂРѕРёР·РІРѕРґСЃС‚РІРѕ РЅР° 11%</title>
       <link>https://news.yandex.ru/yandsearch?cl4url=www.finmarket.ru%2Fnews%2F4731263&amp;from=rss</link>
-      <description>В феврале выпущено запасных частей к автомобильной технике на сумму 1,88 млрд рублей, с начала года - на 3 млрд рублей.</description>
+      <description>Р’ С„РµРІСЂР°Р»Рµ РІС‹РїСѓС‰РµРЅРѕ Р·Р°РїР°СЃРЅС‹С… С‡Р°СЃС‚РµР№ Рє Р°РІС‚РѕРјРѕР±РёР»СЊРЅРѕР№ С‚РµС…РЅРёРєРµ РЅР° СЃСѓРјРјСѓ 1,88 РјР»СЂРґ СЂСѓР±Р»РµР№, СЃ РЅР°С‡Р°Р»Р° РіРѕРґР° - РЅР° 3 РјР»СЂРґ СЂСѓР±Р»РµР№.</description>
       <pubDate>12 Mar 2018 11:23:00 +0300</pubDate>
       <guid>https://news.yandex.ru/yandsearch?cl4url=www.finmarket.ru%2Fnews%2F4731263&amp;from=rss</guid>
     </item>
     <item>
-      <title>Кроссовер Infiniti QX60 в феврале стал бестселлером марки в России</title>
+      <title>РљСЂРѕСЃСЃРѕРІРµСЂ Infiniti QX60 РІ С„РµРІСЂР°Р»Рµ СЃС‚Р°Р» Р±РµСЃС‚СЃРµР»Р»РµСЂРѕРј РјР°СЂРєРё РІ Р РѕСЃСЃРёРё</title>
       <link>https://news.yandex.ru/yandsearch?cl4url=www.autostat.ru%2Fnews%2F33403%2F&amp;from=rss</link>
-      <description>Российские дилеры Infiniti в феврале реализовали 429 автомобилей – на 24% меньше, чем годом ранее.</description>
+      <description>Р РѕСЃСЃРёР№СЃРєРёРµ РґРёР»РµСЂС‹ Infiniti РІ С„РµРІСЂР°Р»Рµ СЂРµР°Р»РёР·РѕРІР°Р»Рё 429 Р°РІС‚РѕРјРѕР±РёР»РµР№ вЂ“ РЅР° 24% РјРµРЅСЊС€Рµ, С‡РµРј РіРѕРґРѕРј СЂР°РЅРµРµ.</description>
       <pubDate>12 Mar 2018 07:57:37 +0300</pubDate>
       <guid>https://news.yandex.ru/yandsearch?cl4url=www.autostat.ru%2Fnews%2F33403%2F&amp;from=rss</guid>
     </item>
     <item>
-      <title>Продажи грузовиков в России в феврале 2018 года выросли на 40%</title>
+      <title>РџСЂРѕРґР°Р¶Рё РіСЂСѓР·РѕРІРёРєРѕРІ РІ Р РѕСЃСЃРёРё РІ С„РµРІСЂР°Р»Рµ 2018 РіРѕРґР° РІС‹СЂРѕСЃР»Рё РЅР° 40%</title>
       <link>https://news.yandex.ru/yandsearch?cl4url=iz.ru%2F718947%2F2018-03-12%2Fprodazhi-gruzovikov-v-rossii-v-fevral-2018-goda-vyrosli-na-40&amp;from=rss</link>
-      <description>Объем рынка грузовых автомобилей в России вырос на 40% в феврале 2018 года. Об этом сообщает агентство «Автостат».</description>
+      <description>РћР±СЉРµРј СЂС‹РЅРєР° РіСЂСѓР·РѕРІС‹С… Р°РІС‚РѕРјРѕР±РёР»РµР№ РІ Р РѕСЃСЃРёРё РІС‹СЂРѕСЃ РЅР° 40% РІ С„РµРІСЂР°Р»Рµ 2018 РіРѕРґР°. РћР± СЌС‚РѕРј СЃРѕРѕР±С‰Р°РµС‚ Р°РіРµРЅС‚СЃС‚РІРѕ В«РђРІС‚РѕСЃС‚Р°С‚В».</description>
       <pubDate>12 Mar 2018 15:00:47 +0300</pubDate>
       <guid>https://news.yandex.ru/yandsearch?cl4url=iz.ru%2F718947%2F2018-03-12%2Fprodazhi-gruzovikov-v-rossii-v-fevral-2018-goda-vyrosli-na-40&amp;from=rss</guid>
     </item>
     <item>
-      <title>Начались продажи обновленного пикапа Honda Ridgeline</title>
+      <title>РќР°С‡Р°Р»РёСЃСЊ РїСЂРѕРґР°Р¶Рё РѕР±РЅРѕРІР»РµРЅРЅРѕРіРѕ РїРёРєР°РїР° Honda Ridgeline</title>
       <link>https://news.yandex.ru/yandsearch?cl4url=www.vladtime.ru%2Fautomedia%2F646625&amp;from=rss</link>
-      <description>Японские машиностроители начали продажи обновленного пикапа Honda Ridgeline. Первым рынком для новинки стали США.</description>
+      <description>РЇРїРѕРЅСЃРєРёРµ РјР°С€РёРЅРѕСЃС‚СЂРѕРёС‚РµР»Рё РЅР°С‡Р°Р»Рё РїСЂРѕРґР°Р¶Рё РѕР±РЅРѕРІР»РµРЅРЅРѕРіРѕ РїРёРєР°РїР° Honda Ridgeline. РџРµСЂРІС‹Рј СЂС‹РЅРєРѕРј РґР»СЏ РЅРѕРІРёРЅРєРё СЃС‚Р°Р»Рё РЎРЁРђ.</description>
       <pubDate>12 Mar 2018 16:46:55 +0300</pubDate>
       <guid>https://news.yandex.ru/yandsearch?cl4url=www.vladtime.ru%2Fautomedia%2F646625&amp;from=rss</guid>
     </item>
     <item>
-      <title>Volkswagen создаёт единую платформу для премиальных электрокаров</title>
+      <title>Volkswagen СЃРѕР·РґР°С‘С‚ РµРґРёРЅСѓСЋ РїР»Р°С‚С„РѕСЂРјСѓ РґР»СЏ РїСЂРµРјРёР°Р»СЊРЅС‹С… СЌР»РµРєС‚СЂРѕРєР°СЂРѕРІ</title>
       <link>https://news.yandex.ru/yandsearch?cl4url=regnum.ru%2Fnews%2F2388978.html&amp;from=rss</link>
-      <description>Концерн Volkswagen намерен создать общую платформу для премиальных электрических автомобилей, которая получит название PPE (Premium Platform Electric), об этом 12 марта сообщил портал CarsWeek.</description>
+      <description>РљРѕРЅС†РµСЂРЅ Volkswagen РЅР°РјРµСЂРµРЅ СЃРѕР·РґР°С‚СЊ РѕР±С‰СѓСЋ РїР»Р°С‚С„РѕСЂРјСѓ РґР»СЏ РїСЂРµРјРёР°Р»СЊРЅС‹С… СЌР»РµРєС‚СЂРёС‡РµСЃРєРёС… Р°РІС‚РѕРјРѕР±РёР»РµР№, РєРѕС‚РѕСЂР°СЏ РїРѕР»СѓС‡РёС‚ РЅР°Р·РІР°РЅРёРµ PPE (Premium Platform Electric), РѕР± СЌС‚РѕРј 12 РјР°СЂС‚Р° СЃРѕРѕР±С‰РёР» РїРѕСЂС‚Р°Р» CarsWeek.</description>
       <pubDate>12 Mar 2018 11:39:31 +0300</pubDate>
       <guid>https://news.yandex.ru/yandsearch?cl4url=regnum.ru%2Fnews%2F2388978.html&amp;from=rss</guid>
     </item>
     <item>
-      <title>В России стартовали продажи нового кроссовера Citroen C3 Aircross</title>
+      <title>Р’ Р РѕСЃСЃРёРё СЃС‚Р°СЂС‚РѕРІР°Р»Рё РїСЂРѕРґР°Р¶Рё РЅРѕРІРѕРіРѕ РєСЂРѕСЃСЃРѕРІРµСЂР° Citroen C3 Aircross</title>
       <link>https://news.yandex.ru/yandsearch?cl4url=www.avtovzglyad.ru%2Favto%2Fkrossovery%2F2018-03-12-v-rossii-startovali-prodazhi-novogo-krossovera-citroen-c3-aircross%2F&amp;from=rss</link>
-      <description>В нашей стране Citroen C3 Aircross продается в трех модификациях с бензиновыми 82- и 110-сильными двигателями семейства PureTech и дизельным HDi мощностью 92 л. с. С моторами работают шестиступенчатая механическая коробка передач и шестидиапазонный «автомат».</description>
+      <description>Р’ РЅР°С€РµР№ СЃС‚СЂР°РЅРµ Citroen C3 Aircross РїСЂРѕРґР°РµС‚СЃСЏ РІ С‚СЂРµС… РјРѕРґРёС„РёРєР°С†РёСЏС… СЃ Р±РµРЅР·РёРЅРѕРІС‹РјРё 82- Рё 110-СЃРёР»СЊРЅС‹РјРё РґРІРёРіР°С‚РµР»СЏРјРё СЃРµРјРµР№СЃС‚РІР° PureTech Рё РґРёР·РµР»СЊРЅС‹Рј HDi РјРѕС‰РЅРѕСЃС‚СЊСЋ 92 Р». СЃ. РЎ РјРѕС‚РѕСЂР°РјРё СЂР°Р±РѕС‚Р°СЋС‚ С€РµСЃС‚РёСЃС‚СѓРїРµРЅС‡Р°С‚Р°СЏ РјРµС…Р°РЅРёС‡РµСЃРєР°СЏ РєРѕСЂРѕР±РєР° РїРµСЂРµРґР°С‡ Рё С€РµСЃС‚РёРґРёР°РїР°Р·РѕРЅРЅС‹Р№ В«Р°РІС‚РѕРјР°С‚В».</description>
       <pubDate>12 Mar 2018 11:50:48 +0300</pubDate>
       <guid>https://news.yandex.ru/yandsearch?cl4url=www.avtovzglyad.ru%2Favto%2Fkrossovery%2F2018-03-12-v-rossii-startovali-prodazhi-novogo-krossovera-citroen-c3-aircross%2F&amp;from=rss</guid>
     </item>
     <item>
-      <title>В сеть попали шпионские фото обновлённого седана BMW 7 Series</title>
+      <title>Р’ СЃРµС‚СЊ РїРѕРїР°Р»Рё С€РїРёРѕРЅСЃРєРёРµ С„РѕС‚Рѕ РѕР±РЅРѕРІР»С‘РЅРЅРѕРіРѕ СЃРµРґР°РЅР° BMW 7 Series</title>
       <link>https://news.yandex.ru/yandsearch?cl4url=www.vladtime.ru%2Fautomedia%2F646529&amp;from=rss</link>
-      <description>Компания BMW вывела на дорожные тесты обновлённый седан 7-Series.</description>
+      <description>РљРѕРјРїР°РЅРёСЏ BMW РІС‹РІРµР»Р° РЅР° РґРѕСЂРѕР¶РЅС‹Рµ С‚РµСЃС‚С‹ РѕР±РЅРѕРІР»С‘РЅРЅС‹Р№ СЃРµРґР°РЅ 7-Series.</description>
       <pubDate>12 Mar 2018 09:27:02 +0300</pubDate>
       <guid>https://news.yandex.ru/yandsearch?cl4url=www.vladtime.ru%2Fautomedia%2F646529&amp;from=rss</guid>
     </item>
