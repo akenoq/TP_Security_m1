@@ -21,6 +21,10 @@ app.get('/rss-xxe', function(req, res) {
     res.sendfile("static/rss-xxe.rss");
 });
 
+app.get('/txt', function(req, res) {
+    res.sendfile("static/text.txt");
+});
+
 const port = process.env.PORT || 5000;
 app.listen(port);
 console.log("Server works on port " + port);
